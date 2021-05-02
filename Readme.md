@@ -1,1 +1,1 @@
-Mi primer proyecto de videoconsola con HTML5, CSS3 y Flexbox.
+Este es mi primer proyecto personal usando HTML5, CSS3 y FLEXBOX.
