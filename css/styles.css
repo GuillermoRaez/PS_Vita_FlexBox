@@ -337,7 +337,7 @@ p {
     display: flex;
     align-items: center;
     border-radius: 50%;
-    border: 1px black solid;
+    /*border: 1px black solid;*/
     box-shadow: inset 1px 1px 5px #666;
 }
 
