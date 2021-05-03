@@ -304,8 +304,8 @@ p {
 }
 
 .camera {
-    height: 1em;
-    width: 1em;
+    height: 2em;
+    width: 2em;
     background-color: black;
     border:1px black solid;
     border-radius: 50%;
@@ -315,8 +315,8 @@ p {
 }
 
 .minicamera {
-    height: 0.5em;
-    width: 0.5em;
+    height: 1em;
+    width: 1em;
     background-color: grey;
     border-radius: 50%;
     display: flex;
@@ -325,8 +325,8 @@ p {
 }
 
 .lens {
-    height: 0.2em;
-    width: 0.2em;
+    height: 0.5em;
+    width: 0.5em;
     background-color:lightblue;
     border-radius: 50%;
 }
